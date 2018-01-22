@@ -1,7 +1,7 @@
 ########################################################
-#### Article-output functions for common statistical tests
-#### Written by Marian Sauter, 2017
-#### Version 0.3 - 24.02.17
+#### article_ttest.R
+#### Written by Marian Sauter, 2018
+#### Documentation: http://github.com/mariansauter/sauter/
 ########################################################
 #' Article-output for a t.test (Simple)
 #'
