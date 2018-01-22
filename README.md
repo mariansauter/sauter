@@ -7,7 +7,8 @@ This R packages provides some functions to produce article-ready output for comm
 ### Prerequisites
 ```R
 library(stats)
-library(cohensD)
+library(coda)
+library(lsr)
 library(BayesFactor)
 ```
 
