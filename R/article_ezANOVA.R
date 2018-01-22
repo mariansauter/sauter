@@ -1,3 +1,8 @@
+########################################################
+#### article_ttest.R
+#### Written by Marian Sauter, 2018
+#### Documentation: http://github.com/mariansauter/sauter/
+########################################################
 #' Article-output ezANOVA
 #'
 #' Produces article-ready APA output for an ezANOVA object
