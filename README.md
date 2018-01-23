@@ -13,7 +13,7 @@ library(BayesFactor)
 ```
 
 ### Installing
-If you have library("devtools") installed, this package can be installed with
+If you have library(devtools) installed, this package can be installed with
 ```
 install_github('sauter','mariansauter')
 ```
